@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Section1H1{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+}
+.BtnDowload {
+     font-family: 'Heebo';
+     font-style: normal;
+     font-weight: 500;
+     font-size: 20px;
+     line-height: 29px;
+     color: #FFFFFF;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-left: 20px;
+     padding-right: 21px;
+     border-radius: 30px;
+     background-color: #FF6464;
+     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.section2 {
+    background-color: #EDF7FA;
+    margin-top: 71px;
+    padding-bottom: 50px;
+
+}
+
+.P2 {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 60px;
+    display: flex;
+    align-items: flex-end;
+    color: #21243D;
+    margin-left: 148px;
+}
+
+.CardTitle1 {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+    color: #21243D;
+}
+
+.Date {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #21243D;
+}
+
+.CardText {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #21243D;
+}
+
+.Card {
+    margin-left: 200px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-bottom: 17px;
+    padding-top: 24px;
+    border-radius: 30px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.Year2020 {
+    font-family: 'Heebo';
+    font-weight: 900;
+    font-size: 18px;
+    /* line-height: 60px; */
+    color: #FFFFFF;
+    border-radius: 10px;
+    background-color: #142850;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    width: 65px;
+    height: 40px;
+
+}
+
+.H1_2 {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    /* line-height: 44px; */
+    color: rgb(33, 36, 61);
+
+}
+
+.TextGrey {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    /* line-height: 29px; */
+    color: #8695A4;
+
+}
+
+.Text {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    /* line-height: 24px; */
+    color: #21243D;
+
+}
+
+.Col {
+    margin-top: 30px;
+}
+
+.Dashboard {
+    padding-left: 10px;
+}
+
+.caRd {
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 30px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
+
+.caRd1 {
+    margin-left: 200px;
+}
+
+.caRd3 {
+    margin-left: 460px;
+}
+
+.ImgMan {
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border-radius: 50%;
+}
